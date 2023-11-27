@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="Quests" load_steps=2 format=3 uid="uid://bfx0kgdeoghjt"]
+
+[ext_resource type="Script" path="res://scripts/Quests/Quests.gd" id="1_vpeug"]
+
+[resource]
+script = ExtResource("1_vpeug")
+name = ""
+botch = false
+states = "UNKOWN"
+Description = ""
