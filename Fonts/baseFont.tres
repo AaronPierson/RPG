@@ -1,0 +1,6 @@
+[gd_resource type="FontVariation" load_steps=2 format=3 uid="uid://7dupnv83jo4d"]
+
+[ext_resource type="FontFile" uid="uid://ddfayk5njmq0t" path="res://Fonts/ThaleahFat.ttf" id="1_jl3oh"]
+
+[resource]
+base_font = ExtResource("1_jl3oh")

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://82ynaneuh8s7"
+path="res://.godot/imported/Death01.wav-7c1fcc74157e6cd5899a91c82a4f5402.sample"
+
+[deps]
+
+source_file="res://assets/World/1BITCanariPackTopDown/1BIT CanariPack TopDown/SFX/Death01.wav"
+dest_files=["res://.godot/imported/Death01.wav-7c1fcc74157e6cd5899a91c82a4f5402.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

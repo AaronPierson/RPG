@@ -1,0 +1,104 @@
+[gd_scene load_steps=9 format=3 uid="uid://cg8yyj6x75eqp"]
+
+[ext_resource type="Texture2D" uid="uid://ddkfg0156qy01" path="res://1-bit_UI_byBatuhanK.png" id="1_ftjth"]
+[ext_resource type="Script" path="res://scenes/UI/menu.gd" id="2_fv3wj"]
+[ext_resource type="FontVariation" uid="uid://7dupnv83jo4d" path="res://Fonts/baseFont.tres" id="3_yts3r"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_x013p"]
+texture = ExtResource("1_ftjth")
+texture_margin_left = 6.0
+texture_margin_top = 2.0
+texture_margin_right = 6.0
+texture_margin_bottom = 3.0
+region_rect = Rect2(95, 83, 41, 14)
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_3jvt1"]
+texture = ExtResource("1_ftjth")
+texture_margin_left = 2.0
+texture_margin_top = 1.0
+texture_margin_right = 3.0
+texture_margin_bottom = 1.0
+region_rect = Rect2(90, 171, 106, 8)
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_g7k5q"]
+texture = ExtResource("1_ftjth")
+texture_margin_left = 2.0
+texture_margin_top = 1.0
+texture_margin_right = 2.0
+texture_margin_bottom = 1.0
+region_rect = Rect2(90, 159, 106, 8)
+
+[sub_resource type="Theme" id="Theme_o4da2"]
+Button/styles/normal = SubResource("StyleBoxTexture_x013p")
+ProgressBar/styles/background = SubResource("StyleBoxTexture_3jvt1")
+ProgressBar/styles/fill = SubResource("StyleBoxTexture_g7k5q")
+
+[sub_resource type="FontVariation" id="FontVariation_etn4m"]
+base_font = ExtResource("3_yts3r")
+
+[node name="Menu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = SubResource("Theme_o4da2")
+script = ExtResource("2_fv3wj")
+
+[node name="NinePatchRect" type="NinePatchRect" parent="."]
+layout_mode = 0
+offset_left = 144.0
+offset_top = 8.0
+offset_right = 224.0
+offset_bottom = 120.0
+texture = ExtResource("1_ftjth")
+region_rect = Rect2(91, 11, 30, 45)
+patch_margin_left = 10
+patch_margin_top = 11
+patch_margin_right = 9
+patch_margin_bottom = 11
+
+[node name="VBoxContainer" type="VBoxContainer" parent="NinePatchRect"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -18.0
+offset_top = -43.0
+offset_right = 18.0
+offset_bottom = 43.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Button" type="Button" parent="NinePatchRect/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = SubResource("FontVariation_etn4m")
+theme_override_font_sizes/font_size = 12
+text = "Party"
+
+[node name="Button2" type="Button" parent="NinePatchRect/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = SubResource("FontVariation_etn4m")
+theme_override_font_sizes/font_size = 12
+text = "Bag"
+
+[node name="Button5" type="Button" parent="NinePatchRect/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = SubResource("FontVariation_etn4m")
+theme_override_font_sizes/font_size = 12
+text = "Save"
+
+[node name="Button3" type="Button" parent="NinePatchRect/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = SubResource("FontVariation_etn4m")
+theme_override_font_sizes/font_size = 12
+text = "Options"
+
+[node name="Button4" type="Button" parent="NinePatchRect/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = SubResource("FontVariation_etn4m")
+theme_override_font_sizes/font_size = 12
+text = "Exit"

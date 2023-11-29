@@ -1,0 +1,17 @@
+[gd_resource type="Resource" script_class="Stats" load_steps=2 format=3 uid="uid://b1pre64j0vyyv"]
+
+[ext_resource type="Script" path="res://scripts/Resource/Stats/Stats.gd" id="1_fnimg"]
+
+[resource]
+script = ExtResource("1_fnimg")
+health = 100
+mana = 100
+stamina = 100
+physical_damage = 0
+magical_damage = 0
+strength = 10
+intelligence = 10
+willpower = 10
+endurance = 10
+dexterity = 10
+luck = 10

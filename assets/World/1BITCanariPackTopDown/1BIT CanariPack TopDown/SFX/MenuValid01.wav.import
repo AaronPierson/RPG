@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bcsqic5efm861"
+path="res://.godot/imported/MenuValid01.wav-1778aefe8c40d408375a4e00356642fb.sample"
+
+[deps]
+
+source_file="res://assets/World/1BITCanariPackTopDown/1BIT CanariPack TopDown/SFX/MenuValid01.wav"
+dest_files=["res://.godot/imported/MenuValid01.wav-1778aefe8c40d408375a4e00356642fb.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
