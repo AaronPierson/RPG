@@ -1,0 +1,22 @@
+[gd_resource type="Shader" format=2]
+
+[resource]
+code = "shader_type canvas_item;
+
+//uniform vec4 BLACK_ORIGINAL : hint_color;
+//uniform vec4 WHITE_ORIGINAL : hint_color;
+
+
+uniform vec4 BLACK_REPLACE : hint_color;
+uniform vec4 WHITE_REPLACE : hint_color;
+
+void fragment(){
+	vec4 curr_color = texture(TEXTURE, UV); //get current color of pixel
+	
+	if (curr_color == vec4(0,0,0,1)){
+		COLOR = BLACK_REPLACE;
+	}
+	else if(curr_color == vec4(1,1,1,1)){
+		COLOR = WHITE_REPLACE
+	}
+}"
