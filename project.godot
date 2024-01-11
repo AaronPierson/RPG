@@ -25,10 +25,10 @@ _questManager="*res://scripts/Resource/Quests/QuestManager.gd"
 
 [display]
 
-window/size/viewport_width=240
-window/size/viewport_height=160
-window/size/window_width_override=1200
-window/size/window_height_override=800
+window/size/viewport_width=480
+window/size/viewport_height=320
+window/size/window_width_override=1920
+window/size/window_height_override=1080
 window/stretch/mode="viewport"
 
 [editor_plugins]

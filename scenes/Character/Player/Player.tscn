@@ -427,4 +427,5 @@ parameters/walk/blend_position = Vector2(0, 0)
 [node name="RayCast2D" type="RayCast2D" parent="."]
 z_index = 1
 position = Vector2(8, 8)
+scale = Vector2(1.1, 1.1)
 target_position = Vector2(0, 16)
