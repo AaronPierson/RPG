@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cll34n8o3vs3d"
+path="res://.godot/imported/SPELL_Water.ogg-6726f21a73cf81d218e68f7ea36088f0.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/OGG/SPELL_Water.ogg"
+dest_files=["res://.godot/imported/SPELL_Water.ogg-6726f21a73cf81d218e68f7ea36088f0.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

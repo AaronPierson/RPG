@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c6xyh38a8qmnc"
+path="res://.godot/imported/WOOD_Breaking 02.mp3-a6158e9c574609a13825ac800628cf4e.mp3str"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/MP3/WOOD_Breaking 02.mp3"
+dest_files=["res://.godot/imported/WOOD_Breaking 02.mp3-a6158e9c574609a13825ac800628cf4e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

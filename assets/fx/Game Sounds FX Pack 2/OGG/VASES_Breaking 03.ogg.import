@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b2c7s6n6g5td7"
+path="res://.godot/imported/VASES_Breaking 03.ogg-07be389f806c65ec2a5e8e69797ebd52.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/OGG/VASES_Breaking 03.ogg"
+dest_files=["res://.godot/imported/VASES_Breaking 03.ogg-07be389f806c65ec2a5e8e69797ebd52.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d2qw1v8rxab6o"
+path="res://.godot/imported/SPELL_Thunder.mp3-15017bd80b0e20cda69bc42bb7b86dcc.mp3str"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/MP3/SPELL_Thunder.mp3"
+dest_files=["res://.godot/imported/SPELL_Thunder.mp3-15017bd80b0e20cda69bc42bb7b86dcc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

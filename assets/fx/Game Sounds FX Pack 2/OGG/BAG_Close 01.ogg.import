@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dunbf3e4nxh7f"
+path="res://.godot/imported/BAG_Close 01.ogg-22d7be4a7a72e75325531699813b37bb.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/OGG/BAG_Close 01.ogg"
+dest_files=["res://.godot/imported/BAG_Close 01.ogg-22d7be4a7a72e75325531699813b37bb.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

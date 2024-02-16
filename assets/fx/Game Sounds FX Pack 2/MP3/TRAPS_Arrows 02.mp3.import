@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://drhkwculjs450"
+path="res://.godot/imported/TRAPS_Arrows 02.mp3-980fd2e29dff9dc4449ed12f9037c5b7.mp3str"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/MP3/TRAPS_Arrows 02.mp3"
+dest_files=["res://.godot/imported/TRAPS_Arrows 02.mp3-980fd2e29dff9dc4449ed12f9037c5b7.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

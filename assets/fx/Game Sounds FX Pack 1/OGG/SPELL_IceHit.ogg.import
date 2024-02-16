@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://doocmer1qkgi4"
+path="res://.godot/imported/SPELL_IceHit.ogg-6dc50a15e8d18941b13cd3d191a48dda.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/OGG/SPELL_IceHit.ogg"
+dest_files=["res://.godot/imported/SPELL_IceHit.ogg-6dc50a15e8d18941b13cd3d191a48dda.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

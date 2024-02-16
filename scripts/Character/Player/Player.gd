@@ -1,8 +1,7 @@
 extends CharacterBody2D
 
-
 @export var walk_speed = 5
-@export var stats : Resource
+@export var stats : Stats
 @export var tile_size = 16
 @onready var axis = Vector2.ZERO
 @onready var ray_cast_2d = $RayCast2D

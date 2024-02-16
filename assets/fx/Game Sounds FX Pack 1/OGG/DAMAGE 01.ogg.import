@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cxgsp8xjxgcta"
+path="res://.godot/imported/DAMAGE 01.ogg-af0f0fd50b9870a9e2142bac4548343c.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/OGG/DAMAGE 01.ogg"
+dest_files=["res://.godot/imported/DAMAGE 01.ogg-af0f0fd50b9870a9e2142bac4548343c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b85foglmc5uxo"
+path="res://.godot/imported/MOVEMENT_Jump 02.mp3-11c588b6f1321f419ea9f1f37b739e33.mp3str"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/MP3/MOVEMENT_Jump 02.mp3"
+dest_files=["res://.godot/imported/MOVEMENT_Jump 02.mp3-11c588b6f1321f419ea9f1f37b739e33.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

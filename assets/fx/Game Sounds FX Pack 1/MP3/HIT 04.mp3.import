@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b2t2tq32ivoxt"
+path="res://.godot/imported/HIT 04.mp3-99ca4ae5e7ef055720ab2b7ec0459c1c.mp3str"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/MP3/HIT 04.mp3"
+dest_files=["res://.godot/imported/HIT 04.mp3-99ca4ae5e7ef055720ab2b7ec0459c1c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

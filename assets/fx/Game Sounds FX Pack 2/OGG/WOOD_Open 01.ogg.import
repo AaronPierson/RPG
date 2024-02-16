@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cma08b40jhbif"
+path="res://.godot/imported/WOOD_Open 01.ogg-97dc69ecf3b403755a77e015594151ed.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/OGG/WOOD_Open 01.ogg"
+dest_files=["res://.godot/imported/WOOD_Open 01.ogg-97dc69ecf3b403755a77e015594151ed.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

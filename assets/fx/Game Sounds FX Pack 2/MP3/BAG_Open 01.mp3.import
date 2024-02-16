@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b45emqsrqavok"
+path="res://.godot/imported/BAG_Open 01.mp3-abe19e0fb30fd5cd0b4c683564f373b4.mp3str"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/MP3/BAG_Open 01.mp3"
+dest_files=["res://.godot/imported/BAG_Open 01.mp3-abe19e0fb30fd5cd0b4c683564f373b4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

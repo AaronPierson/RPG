@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://qp3q014ooc14"
+path="res://.godot/imported/SPELL_Energy.ogg-4adabbe8b206d6c0759ad0ff1e6007e5.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/OGG/SPELL_Energy.ogg"
+dest_files=["res://.godot/imported/SPELL_Energy.ogg-4adabbe8b206d6c0759ad0ff1e6007e5.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

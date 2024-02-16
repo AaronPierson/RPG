@@ -74,10 +74,10 @@ anchor_left = 1.0
 anchor_top = 0.5
 anchor_right = 1.0
 anchor_bottom = 0.5
-offset_left = -136.0
-offset_top = -27.5
-offset_right = -31.0
-offset_bottom = 27.5
+offset_left = -120.0
+offset_top = -26.5
+offset_right = -15.0
+offset_bottom = 28.5
 grow_horizontal = 0
 grow_vertical = 2
 theme_override_constants/h_separation = 5
@@ -115,7 +115,7 @@ theme_override_constants/v_separation = 5
 columns = 3
 
 [node name="ColorRect" type="ColorRect" parent="CanvasLayer/PlayerPanel/Party"]
-custom_minimum_size = Vector2(25, 25)
+custom_minimum_size = Vector2(15, 15)
 layout_mode = 2
 color = Color(0.658824, 1, 1, 1)
 
@@ -131,27 +131,42 @@ texture_over = ExtResource("2_lmabr")
 texture_progress = ExtResource("3_6tetj")
 
 [node name="ColorRect2" type="ColorRect" parent="CanvasLayer/PlayerPanel/Party"]
-custom_minimum_size = Vector2(25, 25)
+custom_minimum_size = Vector2(15, 15)
 layout_mode = 2
 color = Color(1, 0.109804, 1, 1)
 
 [node name="ColorRect3" type="ColorRect" parent="CanvasLayer/PlayerPanel/Party"]
-custom_minimum_size = Vector2(25, 25)
+custom_minimum_size = Vector2(15, 15)
 layout_mode = 2
 color = Color(1, 1, 0.184314, 1)
 
 [node name="ColorRect4" type="ColorRect" parent="CanvasLayer/PlayerPanel/Party"]
-custom_minimum_size = Vector2(25, 25)
+custom_minimum_size = Vector2(15, 15)
 layout_mode = 2
 color = Color(0.243137, 0.329412, 1, 1)
 
 [node name="ColorRect5" type="ColorRect" parent="CanvasLayer/PlayerPanel/Party"]
-custom_minimum_size = Vector2(25, 25)
+custom_minimum_size = Vector2(15, 15)
 layout_mode = 2
 color = Color(1, 0.211765, 0.243137, 1)
 
 [node name="ColorRect6" type="ColorRect" parent="CanvasLayer/PlayerPanel/Party"]
-custom_minimum_size = Vector2(25, 25)
+custom_minimum_size = Vector2(15, 15)
+layout_mode = 2
+color = Color(0.145098, 0.133333, 0.152941, 1)
+
+[node name="ColorRect7" type="ColorRect" parent="CanvasLayer/PlayerPanel/Party"]
+custom_minimum_size = Vector2(15, 15)
+layout_mode = 2
+color = Color(0.145098, 0.133333, 0.152941, 1)
+
+[node name="ColorRect8" type="ColorRect" parent="CanvasLayer/PlayerPanel/Party"]
+custom_minimum_size = Vector2(15, 15)
+layout_mode = 2
+color = Color(0.145098, 0.133333, 0.152941, 1)
+
+[node name="ColorRect9" type="ColorRect" parent="CanvasLayer/PlayerPanel/Party"]
+custom_minimum_size = Vector2(15, 15)
 layout_mode = 2
 color = Color(0.145098, 0.133333, 0.152941, 1)
 
@@ -217,34 +232,29 @@ texture_under = ExtResource("1_fddv0")
 texture_over = ExtResource("2_lmabr")
 texture_progress = ExtResource("3_6tetj")
 
-[node name="GridContainer" type="GridContainer" parent="CanvasLayer"]
-anchors_preset = 8
-anchor_left = 0.5
-anchor_top = 0.5
-anchor_right = 0.5
-anchor_bottom = 0.5
-offset_left = -134.0
-offset_top = -128.0
-offset_right = 134.0
-offset_bottom = 54.0
-grow_horizontal = 2
-grow_vertical = 2
-theme_override_constants/h_separation = 500
-theme_override_constants/v_separation = 25
-
-[node name="BackRow" type="HBoxContainer" parent="CanvasLayer/GridContainer"]
-layout_mode = 2
-theme_override_constants/separation = 25
+[node name="BackRow" type="HBoxContainer" parent="CanvasLayer"]
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -153.0
+offset_top = 12.0
+offset_right = -10.0
+offset_bottom = 82.0
+grow_horizontal = 0
+size_flags_horizontal = 8
+theme_override_constants/separation = 15
 alignment = 1
 
-[node name="EnemyContainer" type="VBoxContainer" parent="CanvasLayer/GridContainer/BackRow"]
+[node name="EnemyContainer" type="VBoxContainer" parent="CanvasLayer/BackRow"]
 layout_mode = 2
+size_flags_horizontal = 4
+alignment = 1
 
-[node name="TextureRect" type="TextureRect" parent="CanvasLayer/GridContainer/BackRow/EnemyContainer"]
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/BackRow/EnemyContainer"]
 layout_mode = 2
 texture = SubResource("GradientTexture2D_8j18i")
 
-[node name="ProgressBar" type="ProgressBar" parent="CanvasLayer/GridContainer/BackRow/EnemyContainer"]
+[node name="ProgressBar" type="ProgressBar" parent="CanvasLayer/BackRow/EnemyContainer"]
 layout_mode = 2
 theme_override_fonts/font = ExtResource("4_4swjx")
 theme_override_styles/background = SubResource("StyleBoxFlat_flmwo")
@@ -253,57 +263,77 @@ step = 1.0
 value = 50.0
 show_percentage = false
 
-[node name="VBoxContainer2" type="VBoxContainer" parent="CanvasLayer/GridContainer/BackRow"]
+[node name="EnemyContainer2" type="VBoxContainer" parent="CanvasLayer/BackRow"]
 layout_mode = 2
+alignment = 1
 
-[node name="TextureRect" type="TextureRect" parent="CanvasLayer/GridContainer/BackRow/VBoxContainer2"]
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/BackRow/EnemyContainer2"]
 layout_mode = 2
 texture = SubResource("GradientTexture2D_8j18i")
 
-[node name="ProgressBar" type="ProgressBar" parent="CanvasLayer/GridContainer/BackRow/VBoxContainer2"]
+[node name="ProgressBar" type="ProgressBar" parent="CanvasLayer/BackRow/EnemyContainer2"]
 layout_mode = 2
+theme_override_fonts/font = ExtResource("4_4swjx")
+theme_override_styles/background = SubResource("StyleBoxFlat_flmwo")
+theme_override_styles/fill = SubResource("StyleBoxFlat_uy03q")
+step = 1.0
+value = 50.0
+show_percentage = false
 
-[node name="VBoxContainer3" type="VBoxContainer" parent="CanvasLayer/GridContainer/BackRow"]
-layout_mode = 2
-
-[node name="TextureRect" type="TextureRect" parent="CanvasLayer/GridContainer/BackRow/VBoxContainer3"]
-layout_mode = 2
-texture = SubResource("GradientTexture2D_8j18i")
-
-[node name="ProgressBar" type="ProgressBar" parent="CanvasLayer/GridContainer/BackRow/VBoxContainer3"]
-layout_mode = 2
-
-[node name="VBoxContainer4" type="VBoxContainer" parent="CanvasLayer/GridContainer/BackRow"]
-layout_mode = 2
-
-[node name="TextureRect" type="TextureRect" parent="CanvasLayer/GridContainer/BackRow/VBoxContainer4"]
-layout_mode = 2
-texture = SubResource("GradientTexture2D_8j18i")
-
-[node name="ProgressBar" type="ProgressBar" parent="CanvasLayer/GridContainer/BackRow/VBoxContainer4"]
-layout_mode = 2
-
-[node name="FrontRow" type="HBoxContainer" parent="CanvasLayer/GridContainer"]
-layout_mode = 2
+[node name="FrontRow" type="HBoxContainer" parent="CanvasLayer"]
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 12.0
+offset_top = -167.0
+offset_right = 155.0
+offset_bottom = -78.0
+grow_vertical = 0
+size_flags_horizontal = 0
+size_flags_vertical = 4
 theme_override_constants/separation = 15
 alignment = 1
 
-[node name="VBoxContainer" type="VBoxContainer" parent="CanvasLayer/GridContainer/FrontRow"]
+[node name="VBoxContainer" type="VBoxContainer" parent="CanvasLayer/FrontRow"]
 layout_mode = 2
+alignment = 1
 
-[node name="TextureRect" type="TextureRect" parent="CanvasLayer/GridContainer/FrontRow/VBoxContainer"]
-layout_mode = 2
-texture = SubResource("GradientTexture2D_8j18i")
-
-[node name="ProgressBar" type="ProgressBar" parent="CanvasLayer/GridContainer/FrontRow/VBoxContainer"]
-layout_mode = 2
-
-[node name="VBoxContainer2" type="VBoxContainer" parent="CanvasLayer/GridContainer/FrontRow"]
-layout_mode = 2
-
-[node name="TextureRect" type="TextureRect" parent="CanvasLayer/GridContainer/FrontRow/VBoxContainer2"]
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/FrontRow/VBoxContainer"]
 layout_mode = 2
 texture = SubResource("GradientTexture2D_8j18i")
 
-[node name="ProgressBar" type="ProgressBar" parent="CanvasLayer/GridContainer/FrontRow/VBoxContainer2"]
+[node name="ProgressBar" type="ProgressBar" parent="CanvasLayer/FrontRow/VBoxContainer"]
+layout_mode = 2
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="CanvasLayer/FrontRow"]
+layout_mode = 2
+alignment = 1
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/FrontRow/VBoxContainer2"]
+layout_mode = 2
+texture = SubResource("GradientTexture2D_8j18i")
+
+[node name="ProgressBar" type="ProgressBar" parent="CanvasLayer/FrontRow/VBoxContainer2"]
+layout_mode = 2
+
+[node name="VBoxContainer3" type="VBoxContainer" parent="CanvasLayer/FrontRow"]
+layout_mode = 2
+alignment = 1
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/FrontRow/VBoxContainer3"]
+layout_mode = 2
+texture = SubResource("GradientTexture2D_8j18i")
+
+[node name="ProgressBar" type="ProgressBar" parent="CanvasLayer/FrontRow/VBoxContainer3"]
+layout_mode = 2
+
+[node name="VBoxContainer4" type="VBoxContainer" parent="CanvasLayer/FrontRow"]
+layout_mode = 2
+alignment = 1
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/FrontRow/VBoxContainer4"]
+layout_mode = 2
+texture = SubResource("GradientTexture2D_8j18i")
+
+[node name="ProgressBar" type="ProgressBar" parent="CanvasLayer/FrontRow/VBoxContainer4"]
 layout_mode = 2

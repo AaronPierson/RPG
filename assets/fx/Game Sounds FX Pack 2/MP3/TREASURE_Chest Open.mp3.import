@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bst65bl14nlfs"
+path="res://.godot/imported/TREASURE_Chest Open.mp3-5b53ca48a7cda5f90accdb77bbb2f4d3.mp3str"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/MP3/TREASURE_Chest Open.mp3"
+dest_files=["res://.godot/imported/TREASURE_Chest Open.mp3-5b53ca48a7cda5f90accdb77bbb2f4d3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

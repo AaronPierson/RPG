@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dpfnxypfybujx"
+path="res://.godot/imported/MOVEMENT_Land.ogg-779e20d3c149eda6cb1721d324d75be3.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/OGG/MOVEMENT_Land.ogg"
+dest_files=["res://.godot/imported/MOVEMENT_Land.ogg-779e20d3c149eda6cb1721d324d75be3.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

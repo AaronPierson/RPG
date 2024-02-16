@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cdsyj53tl5hnu"
+path="res://.godot/imported/SPELL_Misc 04.mp3-1f7fd70bae5bebfdbd5a4b5d972bf651.mp3str"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/MP3/SPELL_Misc 04.mp3"
+dest_files=["res://.godot/imported/SPELL_Misc 04.mp3-1f7fd70bae5bebfdbd5a4b5d972bf651.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

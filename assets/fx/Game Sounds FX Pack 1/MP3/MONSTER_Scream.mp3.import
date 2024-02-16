@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cr5r0wte3aean"
+path="res://.godot/imported/MONSTER_Scream.mp3-65d829828a2b68bd21068358830fa567.mp3str"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/MP3/MONSTER_Scream.mp3"
+dest_files=["res://.godot/imported/MONSTER_Scream.mp3-65d829828a2b68bd21068358830fa567.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

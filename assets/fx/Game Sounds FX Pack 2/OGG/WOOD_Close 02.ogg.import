@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bjbk62mj8luax"
+path="res://.godot/imported/WOOD_Close 02.ogg-5275f810fdd4e1466a5f54d47cf5d5db.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/OGG/WOOD_Close 02.ogg"
+dest_files=["res://.godot/imported/WOOD_Close 02.ogg-5275f810fdd4e1466a5f54d47cf5d5db.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

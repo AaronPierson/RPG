@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://63p6yq4tiit1"
+path="res://.godot/imported/SPELL_Water.wav-18956dd643acf8f82387a419c210eb1c.sample"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/WAV/SPELL_Water.wav"
+dest_files=["res://.godot/imported/SPELL_Water.wav-18956dd643acf8f82387a419c210eb1c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

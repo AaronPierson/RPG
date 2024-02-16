@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ct2lxbrthrwsk"
+path="res://.godot/imported/WOOD_Open 03.wav-5592041827b5c7e0f90b3d2549e94663.sample"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/WAV/WOOD_Open 03.wav"
+dest_files=["res://.godot/imported/WOOD_Open 03.wav-5592041827b5c7e0f90b3d2549e94663.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

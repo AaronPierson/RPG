@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://birxar8vfq1i8"
+path="res://.godot/imported/WOOD_Open 03.mp3-2d3b8f9f319c3a88d107d9c424aed079.mp3str"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/MP3/WOOD_Open 03.mp3"
+dest_files=["res://.godot/imported/WOOD_Open 03.mp3-2d3b8f9f319c3a88d107d9c424aed079.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dyvfpi2n8yil0"
+path="res://.godot/imported/MONSTER_Beast 03.ogg-e1312e2187a0aae2508d8282761efd15.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/OGG/MONSTER_Beast 03.ogg"
+dest_files=["res://.godot/imported/MONSTER_Beast 03.ogg-e1312e2187a0aae2508d8282761efd15.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

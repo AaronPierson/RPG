@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dhbw4y0fqmq2"
+path="res://.godot/imported/SPELL_Explode.wav-987a3f09ec844bc8b19673d915f63bb5.sample"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/WAV/SPELL_Explode.wav"
+dest_files=["res://.godot/imported/SPELL_Explode.wav-987a3f09ec844bc8b19673d915f63bb5.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

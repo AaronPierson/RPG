@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bbbdy4676j8hh"
+path="res://.godot/imported/SLASH_01.wav-faf6f59a4c1f72cc9585ff1c8cf71505.sample"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/WAV/SLASH_01.wav"
+dest_files=["res://.godot/imported/SLASH_01.wav-faf6f59a4c1f72cc9585ff1c8cf71505.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

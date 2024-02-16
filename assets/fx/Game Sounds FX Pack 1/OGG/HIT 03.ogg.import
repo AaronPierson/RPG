@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b8iamaih1msr"
+path="res://.godot/imported/HIT 03.ogg-d92f1103425a2d4ea8493234689444ac.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/OGG/HIT 03.ogg"
+dest_files=["res://.godot/imported/HIT 03.ogg-d92f1103425a2d4ea8493234689444ac.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

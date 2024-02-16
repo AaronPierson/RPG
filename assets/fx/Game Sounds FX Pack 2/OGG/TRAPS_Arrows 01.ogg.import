@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b35hi78i84x3k"
+path="res://.godot/imported/TRAPS_Arrows 01.ogg-d8a46d8221082f5cbea77d4774a664bc.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/OGG/TRAPS_Arrows 01.ogg"
+dest_files=["res://.godot/imported/TRAPS_Arrows 01.ogg-d8a46d8221082f5cbea77d4774a664bc.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

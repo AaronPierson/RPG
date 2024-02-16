@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bw01cyisv0f5w"
+path="res://.godot/imported/VASES_Breaking 03.mp3-c5c4a0f2db6070ddd0eea75454459490.mp3str"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/MP3/VASES_Breaking 03.mp3"
+dest_files=["res://.godot/imported/VASES_Breaking 03.mp3-c5c4a0f2db6070ddd0eea75454459490.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bk1dqqs3yh5dy"
+path="res://.godot/imported/TREASURE_Chest Unlock.wav-7d2fb6e0a23e13b3d0fb8f8849ce4ef5.sample"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/WAV/TREASURE_Chest Unlock.wav"
+dest_files=["res://.godot/imported/TREASURE_Chest Unlock.wav-7d2fb6e0a23e13b3d0fb8f8849ce4ef5.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

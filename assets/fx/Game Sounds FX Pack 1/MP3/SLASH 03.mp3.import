@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dde0fcaav6y8g"
+path="res://.godot/imported/SLASH 03.mp3-7d5b4b58a31b18c63e1ad2c54f52a895.mp3str"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/MP3/SLASH 03.mp3"
+dest_files=["res://.godot/imported/SLASH 03.mp3-7d5b4b58a31b18c63e1ad2c54f52a895.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

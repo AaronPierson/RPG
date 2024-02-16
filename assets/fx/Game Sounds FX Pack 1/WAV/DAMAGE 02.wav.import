@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://uuhgv64gfbx0"
+path="res://.godot/imported/DAMAGE 02.wav-0aa4b6af9fd76a47719166faa6f3b189.sample"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/WAV/DAMAGE 02.wav"
+dest_files=["res://.godot/imported/DAMAGE 02.wav-0aa4b6af9fd76a47719166faa6f3b189.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

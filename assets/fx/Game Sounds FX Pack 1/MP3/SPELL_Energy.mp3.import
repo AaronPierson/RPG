@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c5hvck54aqjsy"
+path="res://.godot/imported/SPELL_Energy.mp3-0fbebd4f0fad1c3964004598436b0861.mp3str"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/MP3/SPELL_Energy.mp3"
+dest_files=["res://.godot/imported/SPELL_Energy.mp3-0fbebd4f0fad1c3964004598436b0861.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

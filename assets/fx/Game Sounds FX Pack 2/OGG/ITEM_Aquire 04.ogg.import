@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dwx4vux187ikt"
+path="res://.godot/imported/ITEM_Aquire 04.ogg-e514f4250d1d780a2bbc8d6c6683869c.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/OGG/ITEM_Aquire 04.ogg"
+dest_files=["res://.godot/imported/ITEM_Aquire 04.ogg-e514f4250d1d780a2bbc8d6c6683869c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

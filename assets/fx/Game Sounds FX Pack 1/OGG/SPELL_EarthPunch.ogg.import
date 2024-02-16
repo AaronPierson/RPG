@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://chgr83r77jmt8"
+path="res://.godot/imported/SPELL_EarthPunch.ogg-89be44e2993841262d28a463843804ed.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/OGG/SPELL_EarthPunch.ogg"
+dest_files=["res://.godot/imported/SPELL_EarthPunch.ogg-89be44e2993841262d28a463843804ed.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

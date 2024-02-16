@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b0xof7iv7hvlm"
+path="res://.godot/imported/MONSTER_Beast 07.wav-dd1c4764300a65ace5458b726c28b051.sample"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/WAV/MONSTER_Beast 07.wav"
+dest_files=["res://.godot/imported/MONSTER_Beast 07.wav-dd1c4764300a65ace5458b726c28b051.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

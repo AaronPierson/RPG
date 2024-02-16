@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d4b8cidwg8exe"
+path="res://.godot/imported/WOOD_Close 03.mp3-e6752aa95e627d8170f81f1f5f171ae3.mp3str"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/MP3/WOOD_Close 03.mp3"
+dest_files=["res://.godot/imported/WOOD_Close 03.mp3-e6752aa95e627d8170f81f1f5f171ae3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

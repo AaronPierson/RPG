@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c7bbmrypydhmn"
+path="res://.godot/imported/SPELL_Misc 03.ogg-5b8dd9f3e58099bf803f4a14082e6d1a.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/OGG/SPELL_Misc 03.ogg"
+dest_files=["res://.godot/imported/SPELL_Misc 03.ogg-5b8dd9f3e58099bf803f4a14082e6d1a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dx4s356scick8"
+path="res://.godot/imported/MOVEMENT_Fall 03.wav-30b1de45ab9a387593bb485d9328e7a6.sample"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 2/WAV/MOVEMENT_Fall 03.wav"
+dest_files=["res://.godot/imported/MOVEMENT_Fall 03.wav-30b1de45ab9a387593bb485d9328e7a6.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

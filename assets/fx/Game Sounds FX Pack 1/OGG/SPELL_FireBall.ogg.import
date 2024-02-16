@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://be52qv1celted"
+path="res://.godot/imported/SPELL_FireBall.ogg-ea07a123a80f231fcfd2f4c9f341225e.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/fx/Game Sounds FX Pack 1/OGG/SPELL_FireBall.ogg"
+dest_files=["res://.godot/imported/SPELL_FireBall.ogg-ea07a123a80f231fcfd2f4c9f341225e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

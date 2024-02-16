@@ -21,3 +21,6 @@ func _ready() -> void:
 	magical_damage = intelligence * 2
 	mana = (intelligence + willpower) * 5
 	stamina = (strength + endurance) * 5
+
+func damage(value : int):
+	health -= value
